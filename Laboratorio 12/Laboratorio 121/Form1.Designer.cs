@@ -28,35 +28,30 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Grade1_text = new Label();
+            Grade1_text_lbl = new Label();
             Solve_btn = new Button();
             Reset_btn = new Button();
             exit_btn = new Button();
-            Grade2_text = new Label();
-            Grade3_text = new Label();
-            Final_grade = new Label();
+            Grade2_text_lbl = new Label();
+            Grade3_text_lbl = new Label();
+            Final_grade_lbl = new Label();
             Final = new Label();
-            // Replace this line:
-            // grade2 = new TextBox();
-
-            // With this line:
-
-            Grade2 = new TextBox();
+            Grade2_box = new TextBox();
             Grade1_box = new TextBox();
-            Grade3 = new TextBox();
+            Grade3_box = new TextBox();
             label1 = new Label();
             SuspendLayout();
             // 
-            // Grade1_text
+            // Grade1_text_lbl
             // 
-            Grade1_text.AutoSize = true;
-            Grade1_text.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
-            Grade1_text.Location = new Point(276, 110);
-            Grade1_text.Name = "Grade1_text";
-            Grade1_text.Size = new Size(127, 20);
-            Grade1_text.TabIndex = 0;
-            Grade1_text.Text = "Calificación NO.1:";
-            Grade1_text.Click += Grade1_text_Click;
+            Grade1_text_lbl.AutoSize = true;
+            Grade1_text_lbl.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
+            Grade1_text_lbl.Location = new Point(276, 110);
+            Grade1_text_lbl.Name = "Grade1_text_lbl";
+            Grade1_text_lbl.Size = new Size(127, 20);
+            Grade1_text_lbl.TabIndex = 0;
+            Grade1_text_lbl.Text = "Calificación NO.1:";
+            Grade1_text_lbl.Click += Grade1_text_Click;
             // 
             // Solve_btn
             // 
@@ -97,37 +92,37 @@
             exit_btn.UseVisualStyleBackColor = false;
             exit_btn.Click += button3_Click;
             // 
-            // Grade2_text
+            // Grade2_text_lbl
             // 
-            Grade2_text.AutoSize = true;
-            Grade2_text.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
-            Grade2_text.Location = new Point(276, 162);
-            Grade2_text.Name = "Grade2_text";
-            Grade2_text.Size = new Size(129, 20);
-            Grade2_text.TabIndex = 5;
-            Grade2_text.Text = "Calificación NO.2:";
+            Grade2_text_lbl.AutoSize = true;
+            Grade2_text_lbl.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
+            Grade2_text_lbl.Location = new Point(276, 162);
+            Grade2_text_lbl.Name = "Grade2_text_lbl";
+            Grade2_text_lbl.Size = new Size(129, 20);
+            Grade2_text_lbl.TabIndex = 5;
+            Grade2_text_lbl.Text = "Calificación NO.2:";
             // 
-            // Grade3_text
+            // Grade3_text_lbl
             // 
-            Grade3_text.AutoSize = true;
-            Grade3_text.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
-            Grade3_text.Location = new Point(276, 212);
-            Grade3_text.Name = "Grade3_text";
-            Grade3_text.Size = new Size(129, 20);
-            Grade3_text.TabIndex = 7;
-            Grade3_text.Text = "Calificación NO.3:";
-            Grade3_text.Click += label5_Click;
+            Grade3_text_lbl.AutoSize = true;
+            Grade3_text_lbl.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
+            Grade3_text_lbl.Location = new Point(276, 212);
+            Grade3_text_lbl.Name = "Grade3_text_lbl";
+            Grade3_text_lbl.Size = new Size(129, 20);
+            Grade3_text_lbl.TabIndex = 7;
+            Grade3_text_lbl.Text = "Calificación NO.3:";
+            Grade3_text_lbl.Click += label5_Click;
             // 
-            // Final_grade
+            // Final_grade_lbl
             // 
-            Final_grade.AutoSize = true;
-            Final_grade.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
-            Final_grade.Location = new Point(276, 279);
-            Final_grade.Name = "Final_grade";
-            Final_grade.Size = new Size(128, 20);
-            Final_grade.TabIndex = 10;
-            Final_grade.Text = "Calificación Final:";
-            Final_grade.Click += label7_Click;
+            Final_grade_lbl.AutoSize = true;
+            Final_grade_lbl.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
+            Final_grade_lbl.Location = new Point(276, 279);
+            Final_grade_lbl.Name = "Final_grade_lbl";
+            Final_grade_lbl.Size = new Size(128, 20);
+            Final_grade_lbl.TabIndex = 10;
+            Final_grade_lbl.Text = "Calificación Final:";
+            Final_grade_lbl.Click += label7_Click;
             // 
             // Final
             // 
@@ -139,14 +134,14 @@
             Final.TabIndex = 9;
             Final.Click += Final_Click;
             // 
-            // Grade2
+            // Grade2_box
             // 
-            Grade2.Cursor = Cursors.IBeam;
-            Grade2.Location = new Point(409, 159);
-            Grade2.Name = "Grade2";
-            Grade2.Size = new Size(83, 27);
-            Grade2.TabIndex = 11;
-            Grade2.TextChanged += Grade2_TextChanged;
+            Grade2_box.Cursor = Cursors.IBeam;
+            Grade2_box.Location = new Point(409, 159);
+            Grade2_box.Name = "Grade2_box";
+            Grade2_box.Size = new Size(83, 27);
+            Grade2_box.TabIndex = 11;
+            Grade2_box.TextChanged += Grade2_TextChanged;
             // 
             // Grade1_box
             // 
@@ -157,14 +152,14 @@
             Grade1_box.TabIndex = 11;
             Grade1_box.TextChanged += Grade1_TextChanged;
             // 
-            // Grade3
+            // Grade3_box
             // 
-            Grade3.Cursor = Cursors.IBeam;
-            Grade3.Location = new Point(409, 209);
-            Grade3.Name = "Grade3";
-            Grade3.Size = new Size(83, 27);
-            Grade3.TabIndex = 11;
-            Grade3.TextChanged += Grade3_TextChanged;
+            Grade3_box.Cursor = Cursors.IBeam;
+            Grade3_box.Location = new Point(409, 209);
+            Grade3_box.Name = "Grade3_box";
+            Grade3_box.Size = new Size(83, 27);
+            Grade3_box.TabIndex = 11;
+            Grade3_box.TextChanged += Grade3_TextChanged;
             // 
             // label1
             // 
@@ -182,17 +177,17 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(label1);
-            Controls.Add(Grade3);
+            Controls.Add(Grade3_box);
             Controls.Add(Grade1_box);
-            Controls.Add(Grade2);
-            Controls.Add(Final_grade);
+            Controls.Add(Grade2_box);
+            Controls.Add(Final_grade_lbl);
             Controls.Add(Final);
-            Controls.Add(Grade3_text);
-            Controls.Add(Grade2_text);
+            Controls.Add(Grade3_text_lbl);
+            Controls.Add(Grade2_text_lbl);
             Controls.Add(exit_btn);
             Controls.Add(Reset_btn);
             Controls.Add(Solve_btn);
-            Controls.Add(Grade1_text);
+            Controls.Add(Grade1_text_lbl);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
@@ -202,20 +197,20 @@
 
         #endregion
 
-        private Label Grade1_text;
+        private Label Grade1_text_lbl;
         private Button Solve_btn;
         private Button Reset_btn;
         private Button exit_btn;
         private Label label2;
-        private Label Grade2_text;
+        private Label Grade2_text_lbl;
         private Label label4;
-        private Label Grade3_text;
+        private Label Grade3_text_lbl;
         private Label label6;
-        private Label Final_grade;
+        private Label Final_grade_lbl;
         private Label Final;
-        private TextBox Grade2;
+        private TextBox Grade2_box;
         private TextBox Grade1_box;
-        private TextBox Grade3;
+        private TextBox Grade3_box;
         private Label label1;
     }
 }

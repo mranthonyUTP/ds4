@@ -11,12 +11,23 @@ namespace Laboratorio_121
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            Close();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            // reset all text boxes and final grade label
+            Grade1_box.ResetText();
+            Grade2_box.ResetText();
+            Grade3_box.ResetText();
+            Final.ResetText();
+            // reset all grade variables
+            grade1 = 0;
+            grade2 = 0;
+            grade3 = 0;
+            finalGrade = 0;
+            // set focus to first grade text box
+            Grade1_box.Focus();
         }
 
         private void label4_Click(object sender, EventArgs e)
@@ -48,13 +59,14 @@ namespace Laboratorio_121
         {
             try
             {
-                if (Grade1_text.Text != "")
+                if (Grade1_box.Text != "")
                 {
-                    grade1 = Convert.ToDouble(Grade1_text.Text);
+                    grade1 = Convert.ToDouble(Grade1_box.Text);
+
                     if (grade1 < 0 || grade1 > 100)
                     {
                         MessageBox.Show("El valor debe estar entre 0 y 100.");
-                        Grade1_text.ResetText();
+                        Grade1_box.ResetText();
                         grade1 = 0;
                     }
                 }
@@ -63,7 +75,7 @@ namespace Laboratorio_121
             catch (FormatException)
             {
                 MessageBox.Show("Inserta un valor valido. (ej. 50.5, 100 o 92.32)");
-                Grade1_text.ResetText();
+                Grade1_box.ResetText();
             }
 
         }
@@ -77,13 +89,13 @@ namespace Laboratorio_121
         {
             try
             {
-                if (Grade1_text.Text != "")
+                if (Grade2_box.Text != "")
                 {
-                    double grade2 = Convert.ToDouble(Grade1_text.Text);
+                    double grade2 = Convert.ToDouble(Grade2_box.Text);
                     if (grade2 < 0 || grade2 > 100)
                     {
                         MessageBox.Show("El valor debe estar entre 0 y 100.");
-                        Grade1_text.ResetText();
+                        Grade2_box.ResetText();
                         grade2 = 0;
                     }
                 }
@@ -92,7 +104,7 @@ namespace Laboratorio_121
             catch (FormatException)
             {
                 MessageBox.Show("Inserta un valor valido. (ej. 50.5, 100 o 92.32)");
-                Grade1_text.ResetText();
+                Grade2_box.ResetText();
             }
 
         }
@@ -101,13 +113,14 @@ namespace Laboratorio_121
         {
             try
             {
-                if (Grade1_text.Text != "")
+                if (Grade3_box.Text != "")
                 {
-                    double grade3 = Convert.ToDouble(Grade1_text.Text);
+                    double grade3 = Convert.ToDouble(Grade3_box.Text);
+
                     if (grade3 < 0 || grade3 > 100)
                     {
                         MessageBox.Show("El valor debe estar entre 0 y 100.");
-                        Grade1_text.ResetText();
+                        Grade2_box.ResetText();
                         grade3 = 0;
                     }
                 }
@@ -116,14 +129,19 @@ namespace Laboratorio_121
             catch (FormatException)
             {
                 MessageBox.Show("Inserta un valor valido. (ej. 50.5, 100 o 92.32)");
-                Grade1_text.ResetText();
+                Grade3_box.ResetText();
             }
 
         }
 
         private void Solve_btn_Click(object sender, EventArgs e)
         {
-            
+            finalGrade = (grade1 + grade2 + grade3) / 3;
+
+            Console.WriteLine(grade1 + " " + grade2 + " " + grade3);
+
+            Final.Text = Convert.ToString(finalGrade);
+
         }
     }
 }
