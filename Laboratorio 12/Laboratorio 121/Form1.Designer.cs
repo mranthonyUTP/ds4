@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             Grade1_text_lbl = new Label();
             Solve_btn = new Button();
             Reset_btn = new Button();
@@ -175,6 +176,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImageLayout = ImageLayout.Center;
             ClientSize = new Size(800, 450);
             Controls.Add(label1);
             Controls.Add(Grade3_box);
@@ -188,8 +190,9 @@
             Controls.Add(Reset_btn);
             Controls.Add(Solve_btn);
             Controls.Add(Grade1_text_lbl);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
-            Text = "Form1";
+            Text = "Software de paga mensual";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();

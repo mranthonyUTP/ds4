@@ -91,7 +91,7 @@ namespace Laboratorio_121
             {
                 if (Grade2_box.Text != "")
                 {
-                    double grade2 = Convert.ToDouble(Grade2_box.Text);
+                    grade2 = Convert.ToDouble(Grade2_box.Text);
                     if (grade2 < 0 || grade2 > 100)
                     {
                         MessageBox.Show("El valor debe estar entre 0 y 100.");
@@ -115,7 +115,7 @@ namespace Laboratorio_121
             {
                 if (Grade3_box.Text != "")
                 {
-                    double grade3 = Convert.ToDouble(Grade3_box.Text);
+                     grade3 = Convert.ToDouble(Grade3_box.Text);
 
                     if (grade3 < 0 || grade3 > 100)
                     {
@@ -136,9 +136,10 @@ namespace Laboratorio_121
 
         private void Solve_btn_Click(object sender, EventArgs e)
         {
-            finalGrade = (grade1 + grade2 + grade3) / 3;
+            finalGrade = (grade1 + grade2 + grade3);
+            finalGrade /= 3;
 
-            Console.WriteLine(grade1 + " " + grade2 + " " + grade3);
+            MessageBox.Show(grade1 + " " + grade2 + " " + grade3 + " final " + finalGrade);
 
             Final.Text = Convert.ToString(finalGrade);
 
