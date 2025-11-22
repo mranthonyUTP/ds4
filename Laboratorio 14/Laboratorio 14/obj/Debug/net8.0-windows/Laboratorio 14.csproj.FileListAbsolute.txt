@@ -16,3 +16,11 @@ C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\obj\Debug\net8.
 C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\obj\Debug\net8.0-windows\Laboratorio 14.pdb
 C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\obj\Debug\net8.0-windows\Laboratorio 14.genruntimeconfig.cache
 C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\obj\Debug\net8.0-windows\ref\Laboratorio 14.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\obj\Debug\net8.0-windows\Laboratorio 14.csproj.AssemblyReference.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 14\Laboratorio 14\obj\Debug\net8.0-windows\Laborato.905ED10F.Up2Date
