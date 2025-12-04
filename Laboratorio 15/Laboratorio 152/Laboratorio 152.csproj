@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
@@ -8,3 +9,15 @@
   </PropertyGroup>
 
 </Project>
+=======
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Laboratorio_152</RootNamespace>
+  </PropertyGroup>
+
+</Project>
+>>>>>>> 0eba28885e60ae9d2535813641f74726c8974929

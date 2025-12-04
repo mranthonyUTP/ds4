@@ -6,7 +6,7 @@ namespace Laboratorio_13
     {
 
         //conector base de datos
-
+        using System.Data.SqlClient;
         string connectionString = @"Server=(localdb)\MSSQLLocalDB;Database=Northwind;Trusted_Connection=True;TrustServerCertificate=True;";
 
 

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Proyectazo 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{099B757A-94EC-42D4-B296-45A808AD739C}|Proyectazo 2\\Proyectazo 2.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\proyectazo 2\\proyectazo 2\\models\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099B757A-94EC-42D4-B296-45A808AD739C}|Proyectazo 2\\Proyectazo 2.csproj|solutionrelative:proyectazo 2\\models\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 115,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Proyectazo 2\\Proyectazo 2\\Models\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Proyectazo 2\\Models\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Proyectazo 2\\Proyectazo 2\\Models\\DefaultController.cs",
+              "RelativeToolTip": "Proyectazo 2\\Models\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:04:03.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
