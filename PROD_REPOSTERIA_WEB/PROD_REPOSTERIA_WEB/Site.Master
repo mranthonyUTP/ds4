@@ -16,12 +16,12 @@
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 </head>
-<body>
-    <form id="form1" runat="server" enctype="multipart/form-data">          //
+<body class="d-flex flex-column min-vh-100">
+
+    <form id="form1" runat="server" enctype="multipart/form-data" class="flex-grow-1 d-flex flex-column">
+
         <asp:ScriptManager runat="server">
             <Scripts>
-                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
-                <%--Framework Scripts--%>
                 <asp:ScriptReference Name="MsAjaxBundle" />
                 <asp:ScriptReference Name="jquery" />
                 <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
@@ -33,37 +33,99 @@
                 <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
                 <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
                 <asp:ScriptReference Name="WebFormsBundle" />
-                <%--Site Scripts--%>
             </Scripts>
         </asp:ScriptManager>
 
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+        <!-- NAVBAR -->
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
             <div class="container">
-                <a class="navbar-brand" runat="server" href="~/">Application name</a>
-                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
+                <a class="navbar-brand" runat="server" href="~/LandingPage.aspx">
+                    🧁 La Emperatriz
+                </a>
+
+                <button class="navbar-toggler" type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#navbarContent">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/About">About</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Contact</a></li>
+
+                <div class="collapse navbar-collapse" id="navbarContent">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" runat="server" href="~/LandingPage.aspx">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" runat="server" href="~/Catalogo.aspx">Catálogo</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" runat="server" href="~/Carrito.aspx">Carrito</a>
+                        </li>
+                    </ul>
+
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" runat="server" href="~/Login.aspx" title="Iniciar sesión">
+                                👤
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </div>
         </nav>
-        <div class="container body-content">
-            <asp:ContentPlaceHolder ID="MainContent" runat="server">
-            </asp:ContentPlaceHolder>
-            <hr />
-            <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
-            </footer>
-        </div>
+
+        <!-- CONTENIDO -->
+        <main class="flex-grow-1">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                <div class="container body-content flex-grow-1"
+                </div>
+        </main>
+
+        <!-- FOOTER -->
+        <footer class="bg-dark text-light mt-auto pt-4 pb-3">
+            <div class="container-fluid px-5">
+                <div class="row">
+
+                    <div class="col-md-4">
+                        <h5>La Emperatriz 👑</h5>
+                        <p class="small">
+                            Sistema web académico para la gestión y compra simulada
+                            de postres artesanales.
+                        </p>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h6>Navegación</h6>
+                        <ul class="list-unstyled">
+                            <li><a href="LandingPage.aspx" class="text-light text-decoration-none">Inicio</a></li>
+                            <li><a href="Catalogo.aspx" class="text-light text-decoration-none">Catálogo</a></li>
+                            <li><a href="Login.aspx" class="text-light text-decoration-none">Acceso</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h6>Tecnologías</h6>
+                        <p class="small mb-0">
+                            ASP.NET Web Forms<br />
+                            SQL Server<br />
+                            Bootstrap
+                        </p>
+                    </div>
+
+                </div>
+
+                <hr class="border-secondary" />
+
+                <div class="text-center small">
+                    © <%: DateTime.Now.Year %> La Emperatriz — Proyecto académico
+                </div>
+            </div>
+        </footer>
+
     </form>
+
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/Scripts/bootstrap.js") %>
     </asp:PlaceHolder>
+
 </body>
 </html>
