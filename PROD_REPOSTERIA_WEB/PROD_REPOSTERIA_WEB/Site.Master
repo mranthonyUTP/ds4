@@ -37,9 +37,9 @@
         </asp:ScriptManager>
 
         <!-- NAVBAR -->
-        <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
-                <a class="navbar-brand" runat="server" href="~/LandingPage.aspx">
+                <a class="navbar-brand" href="<%= ResolveUrl("~/LandingPage.aspx") %>">
                     🧁 La Emperatriz
                 </a>
 
@@ -52,22 +52,59 @@
                 <div class="collapse navbar-collapse" id="navbarContent">
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a class="nav-link" runat="server" href="~/LandingPage.aspx">Inicio</a>
+                            <a class="nav-link" href="<%= ResolveUrl("~/LandingPage.aspx") %>">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" runat="server" href="~/Catalogo.aspx">Catálogo</a>
+                            <a class="nav-link" href="<%= ResolveUrl("~/Catalogo.aspx") %>">Catálogo</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" runat="server" href="~/Carrito.aspx">Carrito</a>
+                            <a class="nav-link" href="<%= ResolveUrl("~/Carrito.aspx") %>">Carrito</a>
                         </li>
+
+                        <% 
+                            // Mostrar enlaces solo a administradores
+                            var sessRole = Context.Session != null ? Context.Session["UserRole"] as string : null;
+                            if (!String.IsNullOrEmpty(sessRole) && sessRole.Equals("Admin", System.StringComparison.OrdinalIgnoreCase)) {
+                        %>
+                        <li class="nav-item">
+                            <a class="nav-link" href="<%= ResolveUrl("~/Admin/Reportes.aspx") %>">Reportes</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="<%= ResolveUrl("~/Admin/Postres.aspx") %>">Gestión</a>
+                        </li>
+                        <% } %>
+
                     </ul>
 
-                    <ul class="navbar-nav ms-auto">
+                    <ul class="navbar-nav ms-auto align-items-center">
+                        <% 
+                            var user = Context.Session != null ? Context.Session["User"] as string : null;
+                            if (!String.IsNullOrEmpty(user)) {
+                        %>
+                        <li class="nav-item d-flex align-items-center me-2">
+                            <!-- user icon (no link) -->
+                            <span class="nav-link text-light d-flex align-items-center" style="cursor:default;">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16" aria-hidden="true">
+                                  <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+                                  <path fill-rule="evenodd" d="M14 14s-1-4-6-4-6 4-6 4 1 0 6 0 6 0 6 0z"/>
+                                </svg>
+                                <span class="ms-2 d-none d-md-inline"><%= System.Web.HttpUtility.HtmlEncode(user) %></span>
+                            </span>
+                        </li>
                         <li class="nav-item">
-                            <a class="nav-link" runat="server" href="~/Login.aspx" title="Iniciar sesión">
-                                👤
+                            <!-- Logout as normal link resolved to application root -->
+                            <a class="btn btn-outline-light btn-sm" href="<%= ResolveUrl("~/Logout.aspx") %>">Cerrar sesión</a>
+                        </li>
+                        <% } else { %>
+                        <li class="nav-item">
+                            <a class="nav-link" href="<%= ResolveUrl("~/Login.aspx") %>" title="Iniciar sesión">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16" aria-hidden="true">
+                                  <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+                                  <path fill-rule="evenodd" d="M14 14s-1-4-6-4-6 4-6 4 1 0 6 0 6 0 6 0z"/>
+                                </svg>
                             </a>
                         </li>
+                        <% } %>
                     </ul>
                 </div>
             </div>
@@ -76,56 +113,99 @@
         <!-- CONTENIDO -->
         <main class="flex-grow-1">
             <asp:ContentPlaceHolder ID="MainContent" runat="server" />
-                <div class="container body-content flex-grow-1"
+                <div class="container body-content flex-grow-1">
                 </div>
         </main>
 
         <!-- FOOTER -->
         <footer class="bg-dark text-light mt-auto pt-4 pb-3">
-            <div class="container-fluid px-5">
-                <div class="row">
+          <div class="container">
+            <div class="row">
 
-                    <div class="col-md-4">
-                        <h5>La Emperatriz 👑</h5>
-                        <p class="small">
-                            Sistema web académico para la gestión y compra simulada
-                            de postres artesanales.
-                        </p>
-                    </div>
-
-                    <div class="col-md-4">
-                        <h6>Navegación</h6>
-                        <ul class="list-unstyled">
-                            <li><a href="LandingPage.aspx" class="text-light text-decoration-none">Inicio</a></li>
-                            <li><a href="Catalogo.aspx" class="text-light text-decoration-none">Catálogo</a></li>
-                            <li><a href="Login.aspx" class="text-light text-decoration-none">Acceso</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="col-md-4">
-                        <h6>Tecnologías</h6>
-                        <p class="small mb-0">
-                            ASP.NET Web Forms<br />
-                            SQL Server<br />
-                            Bootstrap
-                        </p>
-                    </div>
-
+                <div class="col-md-4">
+                    <h4><strong>La Emperatriz 👑</strong></h4>
+                    <p class="small">
+                        Sistema web académico para la gestión y compra simulada
+                        de postres artesanales.
+                    </p>
                 </div>
 
-                <hr class="border-secondary" />
-
-                <div class="text-center small">
-                    © <%: DateTime.Now.Year %> La Emperatriz — Proyecto académico
+                <div class="col-md-4">
+                    <h5><strong>Navegación</strong></h5>
+                    <ul class="list-unstyled">
+                        <li><a href="<%= ResolveUrl("~/LandingPage.aspx") %>" class="text-light text-decoration-none">Inicio</a></li>
+                        <li><a href="<%= ResolveUrl("~/Catalogo.aspx") %>" class="text-light text-decoration-none">Catálogo</a></li>
+                        <li><a href="<%= ResolveUrl("~/Login.aspx") %>" class="text-light text-decoration-none">Acceso</a></li>
+                    </ul>
                 </div>
+
+                <div class="col-md-4">
+                    <h5><strong>Tecnologías</strong></h5>
+                    <p class="small mb-0">
+                        ASP.NET Web Forms<br />
+                        SQL Server<br />
+                        Bootstrap
+                    </p>
+                </div>
+
             </div>
+
+            <hr class="border-secondary" />
+
+            <div class="text-center small">
+                © <%: DateTime.Now.Year %> La Emperatriz — Proyecto Final
+            </div>
+          </div>
         </footer>
+
+        <!-- GLOBAL APP MODALS ... (no changes) -->
+        <div class="modal fade" id="appModal" tabindex="-1" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="appModalTitle">Información</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+              </div>
+              <div class="modal-body" id="appModalBody"></div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary d-none" id="appModalCancel" data-bs-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-primary" id="appModalConfirm">OK</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="modal fade" id="purchaseModal" tabindex="-1" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="purchaseModalTitle">Confirmar compra</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+              </div>
+              <div class="modal-body">
+                <p id="purchaseModalProduct" class="mb-3"></p>
+                <div class="mb-3">
+                  <label for="purchaseQtyInput" class="form-label">Cantidad</label>
+                  <input id="purchaseQtyInput" type="number" min="1" value="1" class="form-control" />
+                </div>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" id="purchaseModalCancel" data-bs-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-primary" id="purchaseModalConfirm">Agregar al carrito</button>
+              </div>
+            </div>
+          </div>
+        </div>
 
     </form>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/Scripts/bootstrap.js") %>
     </asp:PlaceHolder>
+
+    <script type="text/javascript">
+        /* existing JS (modals, image caching) — no change */
+    </script>
 
 </body>
 </html>

@@ -11,17 +11,17 @@ namespace PROD_REPOSTERIA_WEB
 {
 
 
-    public partial class About
+    public partial class Login
     {
 
         /// <summary>
-        /// txtEmail control.
+        /// txtUser control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtEmail;
+        protected global::System.Web.UI.WebControls.TextBox txtUser;
 
         /// <summary>
         /// txtPassword control.
@@ -40,14 +40,5 @@ namespace PROD_REPOSTERIA_WEB
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnLogin;
-
-        /// <summary>
-        /// lblMensaje control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblMensaje;
     }
 }

@@ -17,11 +17,12 @@
             url('/Content/images/Cocina de postres y personas.png');
         background-size:cover;
         background-position:center;
-        background-repeat:no-repeat;
         display:flex;
         align-items:center;
-    "
->
+        margin-top:0;
+        padding-top:0;
+    ">
+
     <div class="container text-center text-white">
         <h1 class="display-4 fw-bold">La Emperatriz 👑</h1>
         <p class="lead mt-3">
