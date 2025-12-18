@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B874A0-FB03-4D6B-8D0D-AA3B26C9981A}|Laboratorio 72\\Laboratorio 72.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\laboratorio 7\\laboratorio 72\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B874A0-FB03-4D6B-8D0D-AA3B26C9981A}|Laboratorio 72\\Laboratorio 72.csproj|solutionrelative:laboratorio 72\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B874A0-FB03-4D6B-8D0D-AA3B26C9981A}|Laboratorio 72\\Laboratorio 72.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\laboratorio 7\\laboratorio 72\\juegodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B874A0-FB03-4D6B-8D0D-AA3B26C9981A}|Laboratorio 72\\Laboratorio 72.csproj|solutionrelative:laboratorio 72\\juegodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B874A0-FB03-4D6B-8D0D-AA3B26C9981A}|Laboratorio 72\\Laboratorio 72.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\laboratorio 7\\laboratorio 72\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B874A0-FB03-4D6B-8D0D-AA3B26C9981A}|Laboratorio 72\\Laboratorio 72.csproj|solutionrelative:laboratorio 72\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CC844-F23A-4A23-B3B5-00BDAD185D3B}|Laboratorio 7\\Laboratorio 7.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\laboratorio 7\\laboratorio 7\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CC844-F23A-4A23-B3B5-00BDAD185D3B}|Laboratorio 7\\Laboratorio 7.csproj|solutionrelative:laboratorio 7\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CC844-F23A-4A23-B3B5-00BDAD185D3B}|Laboratorio 7\\Laboratorio 7.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\laboratorio 7\\laboratorio 7\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CC844-F23A-4A23-B3B5-00BDAD185D3B}|Laboratorio 7\\Laboratorio 7.csproj|solutionrelative:laboratorio 7\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CC844-F23A-4A23-B3B5-00BDAD185D3B}|Laboratorio 7\\Laboratorio 7.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\laboratorio 7\\laboratorio 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CC844-F23A-4A23-B3B5-00BDAD185D3B}|Laboratorio 7\\Laboratorio 7.csproj|solutionrelative:laboratorio 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dado.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 72\\Dado.cs",
+              "RelativeDocumentMoniker": "Laboratorio 72\\Dado.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 72\\Dado.cs",
+              "RelativeToolTip": "Laboratorio 72\\Dado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:28:33.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JuegoDeDados.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 72\\JuegoDeDados.cs",
+              "RelativeDocumentMoniker": "Laboratorio 72\\JuegoDeDados.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 72\\JuegoDeDados.cs",
+              "RelativeToolTip": "Laboratorio 72\\JuegoDeDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:28:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 72\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 72\\Program.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 72\\Program.cs",
+              "RelativeToolTip": "Laboratorio 72\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:26:04.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 7\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7\\Program.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 7\\Program.cs",
+              "RelativeToolTip": "Laboratorio 7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:25:16.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 7\\Cliente.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7\\Cliente.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 7\\Cliente.cs",
+              "RelativeToolTip": "Laboratorio 7\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:24:21.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 7\\Banco.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7\\Banco.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 7\\Laboratorio 7\\Banco.cs",
+              "RelativeToolTip": "Laboratorio 7\\Banco.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:22:58.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

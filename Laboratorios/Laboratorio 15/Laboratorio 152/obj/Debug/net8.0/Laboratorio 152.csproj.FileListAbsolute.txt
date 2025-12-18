@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\appsettings.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.staticwebassets.endpoints.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.exe
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.deps.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.runtimeconfig.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.pdb
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.AssemblyInfoInputs.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.AssemblyInfo.cs
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.csproj.CoreCompileInputs.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.sourcelink.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\scopedcss\bundle\Laboratorio 152.styles.css
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\refint\Laboratorio 152.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.pdb
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.genruntimeconfig.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\ref\Laboratorio 152.dll
+=======
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\appsettings.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.staticwebassets.endpoints.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.exe
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.deps.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.runtimeconfig.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\bin\Debug\net8.0\Laboratorio 152.pdb
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.AssemblyInfoInputs.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.AssemblyInfo.cs
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.csproj.CoreCompileInputs.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.sourcelink.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\scopedcss\bundle\Laboratorio 152.styles.css
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\refint\Laboratorio 152.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.pdb
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\Laboratorio 152.genruntimeconfig.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 15\Laboratorio 152\obj\Debug\net8.0\ref\Laboratorio 152.dll
+>>>>>>> 0eba28885e60ae9d2535813641f74726c8974929

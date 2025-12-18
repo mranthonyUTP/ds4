@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B4B798-8891-43C5-AFE0-13925D17B6F3}|Laboratorio 16\\Laboratorio 16.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\laboratorio 16\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B4B798-8891-43C5-AFE0-13925D17B6F3}|Laboratorio 16\\Laboratorio 16.csproj|solutionrelative:laboratorio 16\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B4B798-8891-43C5-AFE0-13925D17B6F3}|Laboratorio 16\\Laboratorio 16.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\laboratorio 16\\laboratorio 16\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{41B4B798-8891-43C5-AFE0-13925D17B6F3}|Laboratorio 16\\Laboratorio 16.csproj|solutionrelative:laboratorio 16\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B4B798-8891-43C5-AFE0-13925D17B6F3}|Laboratorio 16\\Laboratorio 16.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\laboratorio 16\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{41B4B798-8891-43C5-AFE0-13925D17B6F3}|Laboratorio 16\\Laboratorio 16.csproj|solutionrelative:laboratorio 16\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B4B798-8891-43C5-AFE0-13925D17B6F3}|Laboratorio 16\\Laboratorio 16.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\laboratorio 16\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B4B798-8891-43C5-AFE0-13925D17B6F3}|Laboratorio 16\\Laboratorio 16.csproj|solutionrelative:laboratorio 16\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\Laboratorio 16\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Laboratorio 16\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\Laboratorio 16\\WebForm1.aspx",
+              "RelativeToolTip": "Laboratorio 16\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-24T22:37:59.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\Laboratorio 16\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Laboratorio 16\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\Laboratorio 16\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Laboratorio 16\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAUwLgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:04:36.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\Laboratorio 16\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Laboratorio 16\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\Laboratorio 16\\Default.aspx.cs",
+              "RelativeToolTip": "Laboratorio 16\\Default.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:10:31.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\Laboratorio 16\\Default.aspx",
+              "RelativeDocumentMoniker": "Laboratorio 16\\Default.aspx",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 16\\Laboratorio 16\\Default.aspx",
+              "RelativeToolTip": "Laboratorio 16\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-24T22:00:20.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

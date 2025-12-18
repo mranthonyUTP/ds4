@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\laboratorio 19\\laboratorio 19\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|solutionrelative:laboratorio 19\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\laboratorio 19\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|solutionrelative:laboratorio 19\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\laboratorio 19\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|solutionrelative:laboratorio 19\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\laboratorio 19\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|solutionrelative:laboratorio 19\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\laboratorio 19\\models\\ws\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|solutionrelative:laboratorio 19\\models\\ws\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\laboratorio 19\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3FD42-D406-45A2-B9FE-4E6FDE0F396C}|Laboratorio 19\\Laboratorio 19.csproj|solutionrelative:laboratorio 19\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio 19\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Laboratorio 19\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T22:00:33.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio 19\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Laboratorio 19\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T22:00:29.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio 19\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Laboratorio 19\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T22:00:23.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Laboratorio 19\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Laboratorio 19\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T21:32:27.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio 19\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Laboratorio 19\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T21:23:35.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reply.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\Models\\WS\\Reply.cs",
+              "RelativeDocumentMoniker": "Laboratorio 19\\Models\\WS\\Reply.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Laboratorio 19\\Laboratorio 19\\Models\\WS\\Reply.cs",
+              "RelativeToolTip": "Laboratorio 19\\Models\\WS\\Reply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T21:21:48.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

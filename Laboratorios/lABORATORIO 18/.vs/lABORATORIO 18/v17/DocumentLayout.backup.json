@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\lABORATORIO 18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFB7858-291B-48E0-AB1F-1253AB491837}|lABORATORIO 18\\lABORATORIO 18.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\laboratorio 18\\laboratorio 18\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AFB7858-291B-48E0-AB1F-1253AB491837}|lABORATORIO 18\\lABORATORIO 18.csproj|solutionrelative:laboratorio 18\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFB7858-291B-48E0-AB1F-1253AB491837}|lABORATORIO 18\\lABORATORIO 18.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\laboratorio 18\\laboratorio 18\\views\\shared\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFB7858-291B-48E0-AB1F-1253AB491837}|lABORATORIO 18\\lABORATORIO 18.csproj|solutionrelative:laboratorio 18\\views\\shared\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFB7858-291B-48E0-AB1F-1253AB491837}|lABORATORIO 18\\lABORATORIO 18.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\laboratorio 18\\laboratorio 18\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AFB7858-291B-48E0-AB1F-1253AB491837}|lABORATORIO 18\\lABORATORIO 18.csproj|solutionrelative:laboratorio 18\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\lABORATORIO 18\\lABORATORIO 18\\Views\\Access\\Index.cshtml",
+              "RelativeDocumentMoniker": "lABORATORIO 18\\Views\\Access\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\lABORATORIO 18\\lABORATORIO 18\\Views\\Access\\Index.cshtml",
+              "RelativeToolTip": "lABORATORIO 18\\Views\\Access\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T04:00:39.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\lABORATORIO 18\\lABORATORIO 18\\Views\\Shared\\AccessController.cs",
+              "RelativeDocumentMoniker": "lABORATORIO 18\\Views\\Shared\\AccessController.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\lABORATORIO 18\\lABORATORIO 18\\Views\\Shared\\AccessController.cs",
+              "RelativeToolTip": "lABORATORIO 18\\Views\\Shared\\AccessController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T03:59:30.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\lABORATORIO 18\\lABORATORIO 18\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lABORATORIO 18\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\lABORATORIO 18\\lABORATORIO 18\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lABORATORIO 18\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T03:41:35.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

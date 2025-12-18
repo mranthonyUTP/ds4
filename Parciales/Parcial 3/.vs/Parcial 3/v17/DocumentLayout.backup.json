@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{596BB63D-5CC8-4679-8E70-5DDEC7E8EA0E}|Parcial 3\\Parcial 3.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\parcial 3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{596BB63D-5CC8-4679-8E70-5DDEC7E8EA0E}|Parcial 3\\Parcial 3.csproj|solutionrelative:parcial 3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596BB63D-5CC8-4679-8E70-5DDEC7E8EA0E}|Parcial 3\\Parcial 3.csproj|c:\\users\\laptops\\documents\\ds4\\ds4\\parcial 3\\parcial 3\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596BB63D-5CC8-4679-8E70-5DDEC7E8EA0E}|Parcial 3\\Parcial 3.csproj|solutionrelative:parcial 3\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596BB63D-5CC8-4679-8E70-5DDEC7E8EA0E}|Parcial 3\\Parcial 3.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\parcial 3\\agregar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596BB63D-5CC8-4679-8E70-5DDEC7E8EA0E}|Parcial 3\\Parcial 3.csproj|solutionrelative:parcial 3\\agregar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596BB63D-5CC8-4679-8E70-5DDEC7E8EA0E}|Parcial 3\\Parcial 3.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\parcial 3\\agregar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{596BB63D-5CC8-4679-8E70-5DDEC7E8EA0E}|Parcial 3\\Parcial 3.csproj|solutionrelative:parcial 3\\agregar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596BB63D-5CC8-4679-8E70-5DDEC7E8EA0E}|Parcial 3\\Parcial 3.csproj|C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\parcial 3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{596BB63D-5CC8-4679-8E70-5DDEC7E8EA0E}|Parcial 3\\Parcial 3.csproj|solutionrelative:parcial 3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 115,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\Parcial 3\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Parcial 3\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\Parcial 3\\Default.aspx.cs",
+              "RelativeToolTip": "Parcial 3\\Default.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:57:47.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agregar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\Parcial 3\\Agregar.aspx.cs",
+              "RelativeDocumentMoniker": "Parcial 3\\Agregar.aspx.cs",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\Parcial 3\\Agregar.aspx.cs",
+              "RelativeToolTip": "Parcial 3\\Agregar.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:04:12.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agregar.aspx",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\Parcial 3\\Agregar.aspx",
+              "RelativeDocumentMoniker": "Parcial 3\\Agregar.aspx",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\Parcial 3\\Agregar.aspx",
+              "RelativeToolTip": "Parcial 3\\Agregar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-03T02:03:18.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\Parcial 3\\Web.config",
+              "RelativeDocumentMoniker": "Parcial 3\\Web.config",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\Parcial 3\\Web.config",
+              "RelativeToolTip": "Parcial 3\\Web.config",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-03T01:42:22.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\Parcial 3\\Default.aspx",
+              "RelativeDocumentMoniker": "Parcial 3\\Default.aspx",
+              "ToolTip": "C:\\Users\\LaptopS\\Documents\\ds4\\ds4\\Parcial 3\\Parcial 3\\Default.aspx*",
+              "RelativeToolTip": "Parcial 3\\Default.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-03T01:41:44.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

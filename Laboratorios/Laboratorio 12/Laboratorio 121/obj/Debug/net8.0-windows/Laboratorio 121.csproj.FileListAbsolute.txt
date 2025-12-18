@@ -1,0 +1,17 @@
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\bin\Debug\net8.0-windows\Laboratorio 121.exe
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\bin\Debug\net8.0-windows\Laboratorio 121.deps.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\bin\Debug\net8.0-windows\Laboratorio 121.runtimeconfig.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\bin\Debug\net8.0-windows\Laboratorio 121.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\bin\Debug\net8.0-windows\Laboratorio 121.pdb
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\Laboratorio_121.Form1.resources
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\Laboratorio 121.csproj.GenerateResource.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\Laboratorio 121.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\Laboratorio 121.AssemblyInfoInputs.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\Laboratorio 121.AssemblyInfo.cs
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\Laboratorio 121.csproj.CoreCompileInputs.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\Laboratorio 121.sourcelink.json
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\Laboratorio 121.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\refint\Laboratorio 121.dll
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\Laboratorio 121.pdb
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\Laboratorio 121.genruntimeconfig.cache
+C:\Users\LaptopS\Documents\ds4\ds4\Laboratorio 12\Laboratorio 121\obj\Debug\net8.0-windows\ref\Laboratorio 121.dll
